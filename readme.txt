@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Proyecto Hello world!
 ## Descripción
 Este es mi primer proyecto Git, lo he llamado "Hello world!" y por el
@@ -8,3 +9,7 @@ simplemente imprime por pantalla el mensaje "Hello world!".
 Este proyecto tiene como objetivo adquirir un conocimiento básico y
 fundamental sobre el uso de Git y su interacción con GitHub.
 >>>>>>> develop
+=======
+# Proyecto Clase Git Master
+>>>>>>> f6b6fc9e58144545f3e3b45c64a4bfcae383a949
+>>>>>>> temp
