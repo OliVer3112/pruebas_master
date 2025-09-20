@@ -1,10 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
-# Proyecto Clase Git Master editado tras commit
-=======
-# Proyecto Clase Git Master
->>>>>>> f6b6fc9e58144545f3e3b45c64a4bfcae383a949
-=======
 # Proyecto Hello world!
 ## Descripción
 Este es mi primer proyecto Git, lo he llamado "Hello world!" y por el
